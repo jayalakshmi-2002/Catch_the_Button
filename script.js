@@ -1,4 +1,4 @@
-// script.js
+
 const button = document.getElementById('catchMe');
 
 // When mouse comes near button, move it
@@ -16,4 +16,4 @@ button.addEventListener('mouseover', () => {
 button.addEventListener('click', () => {
   alert("🎉 You Win! You caught the button! 🏆");
 });
-￼Enter
+
